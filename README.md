@@ -4,6 +4,11 @@ In this analysis, the aim is to evaluate the operating profit trends of Adidas p
 
 Comprehending these patterns is more than just analyzing data; it is crucial for making knowledgeable business choices. This understanding will enable Adidas, a manufacturing company, to distribute resources more efficiently, improve product choices, and customize marketing tactics to suit the distinct requirements of each area. Ultimately, this analysis serves as a foundation for driving growth and improving overall financial performance, helping the company as a whole navigate the ever-changing landscape of the retail market.
 
+---
+For a comprehensive exploration of the Adidas sales operating profit analysis, I invite you to check out my detailed project on GitHub. This repository contains the complete analysis, visualizations, and insights derived from the data for 2020 and 2021. You can access it [here](https://github.com/yemifatodu/yemifatodu-In-Depth-Analysis-of-Adidas-Sales-Operating-Profit-2020-2021/tree/main). Your feedback and thoughts are always welcome!
+
+---
+
 
 ## Tools Used
 - **Python**: The primary programming language used for analysis.
@@ -11,6 +16,7 @@ Comprehending these patterns is more than just analyzing data; it is crucial for
 - **NumPy**: For numerical computations.
 - **Matplotlib**: For data visualization.
 - **Seaborn**: For creating informative and attractive statistical graphics.
+  
 
 ```
 adidas_sales_data.info()
