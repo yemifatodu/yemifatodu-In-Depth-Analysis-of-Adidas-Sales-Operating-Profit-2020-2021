@@ -122,11 +122,11 @@ The operating profit data across different retailers and regions in 2020 and 202
 #### 2. Retailer Comparison Based on Operating Profit
 The analysis of operating profit among different retailers reveals competitive strengths and areas for improvement:
 
-- **Amazon**: With strong operating profit figures across regions, Amazon's model shows resilience in the face of market fluctuations. The transition to e-commerce has paid off, leading to increased operational profitability.
+- **Amazon**: With strong operating profit figures across regions, Amazon's model shows resilience in the face of market fluctuations. The transition to e-commerce paid off, leading to increased operational profitability.
 
-- **Walmart**: Walmart's operating profits suggest that its traditional retail model, combined with a growing online presence, remains competitive. The profits indicate effective cost management and a strong supply chain, which are essential for maintaining profitability.
+- **Walmart**: Walmart's operating profits suggest that its traditional retail model, combined with a growing online presence, remains competitive. The profits indicated effective cost management and a strong supply chain, which are essential for maintaining profitability.
 
-- **Foot Locker**: The substantial growth in Foot Locker's operating profit suggests that the retailer has effectively capitalized on marketing campaigns or exclusive product launches. This performance indicates that Adidas's partnership with Foot Locker is yielding significant financial benefits.
+- **Foot Locker**: The substantial growth in Foot Locker's operating profit suggested that the retailer has effectively capitalized on marketing campaigns or exclusive product launches. This performance indicates that Adidas's partnership with Foot Locker yields significant financial benefits.
 
 - **Kohl’s**: The lack of reported operating profit in certain regions indicates potential challenges that may be affecting Kohl's ability to compete. Understanding the causes behind these gaps could guide strategic adjustments to enhance profitability.
 
@@ -138,5 +138,5 @@ The presence of NaN values in the operating profit data indicates potential issu
 - **Impact on Profit Analysis**: Addressing these missing values is crucial for a comprehensive understanding of operating profit trends. Gaps can obscure the full financial picture, making it difficult to gauge overall profitability accurately. Efforts should be made to gather complete data to facilitate a clearer analysis of performance across all channels.
 
 ### Conclusion
-The analysis of operating profit across different retailers and regions provides critical insights into Adidas's financial performance. Understanding these dynamics allows Adidas to refine its operational strategies, enhance retailer partnerships, and adapt its marketing efforts to better align with consumer preferences. By continuously monitoring these metrics, Adidas can identify opportunities for growth and areas needing strategic intervention, ensuring sustained profitability in an evolving market landscape.
+This analysis of operating profit across different retailers and regions provides critical insights into Adidas's financial performance. Understanding these dynamics allows Adidas to refine its operational strategies, enhance retailer partnerships, and adapt its marketing efforts to better align with consumer preferences. By continuously monitoring these metrics, Adidas can identify opportunities for growth and areas needing strategic intervention, ensuring sustained profitability in an evolving market landscape.
 
