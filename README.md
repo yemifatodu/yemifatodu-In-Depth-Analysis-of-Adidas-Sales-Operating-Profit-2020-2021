@@ -1,4 +1,4 @@
-# In-Depth-Analysis-of-Adidas-Sales-Operating-Profit-2020-2021
+# In Depth Analysis of Adidas Sales Operating Profit 2020-2021
 
 In this analysis, the aim is to evaluate the operating profit trends of Adidas product, retailers and sales method across different regions for the years 2020 and 2021. I set out to uncover which regions thrived and which faced challenges during this time.
 
